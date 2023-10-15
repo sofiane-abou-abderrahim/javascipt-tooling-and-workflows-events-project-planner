@@ -1,0 +1,19 @@
+{
+  "name": "javascript-tooling-and-workflows",
+  "version": "1.0.0",
+  "description": "JavaScript - The Complete Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiane-abou-abderrahim/javascipt-tooling-and-workflows-events-project-planner.git"
+  },
+  "author": "Sofiane Abou Abderrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiane-abou-abderrahim/javascipt-tooling-and-workflows-events-project-planner/issues"
+  },
+  "homepage": "https://github.com/sofiane-abou-abderrahim/javascipt-tooling-and-workflows-events-project-planner#readme"
+}

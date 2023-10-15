@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sofiane-abou-abderrahim/javascipt-tooling-and-workflows-events-project-planner#readme",
   "devDependencies": {
-    "eslint": "^8.51.0"
+    "eslint": "^6.4.0"
   }
 }

@@ -27,6 +27,7 @@
     "webpack-dev-server": "^3.8.1"
   },
   "dependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "lodash": "^4.17.21"
   }
 }
